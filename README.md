@@ -15,7 +15,7 @@ pip install subdora
 * **Save Option:** Easily export your generated QR codes as image files using a built-in file dialog.
 
 ### How to Use
-1. Run the app using the Subdora command line.
+1. Run the app using the Subdora in the command line.
 2. Enter the text or URL you want to convert into a QR code.
 3. Click the generate button to view your QR code.
 4. Use the save button to export the image to your computer.
