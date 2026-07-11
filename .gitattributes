@@ -1,1 +1,1 @@
-*.myst linguist-vendored
+*.myst linguist-language=Python
