@@ -20,4 +20,9 @@ pip install subdora
 3. Click the generate button to view your QR code.
 4. Use the save button to export the image to your computer.
 
-5. Copyright (c) 2026 PythonSamurai-1. All rights reserved.
+## How to run Qrcode Generator
+```
+subdora --run Qrcode_generator.myst
+```
+
+ Copyright (c) 2026 PythonSamurai-1. All rights reserved.
