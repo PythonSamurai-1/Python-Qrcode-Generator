@@ -6,10 +6,21 @@ Before running the app for the first time, you need to install the required depe
 pip install qrcode ttkbootstrap Pillow
 ```
 
-You also need Subdora installed
 ```
 pip install subdora
 ```
+## Ubuntu / Debian / Linux Mint:
+`sudo apt install python3-tk`
+
+## Fedora / RHEL:
+`sudo dnf install python3-tkinter`
+
+## Arch Linux:
+`sudo pacman -S tk`
+
+## Opensuse
+`sudo zypper install python3-tk`
+
 ### Features
 * **Modern GUI:** Built using `ttkbootstrap`.
 * **Save Option:** Easily export your generated QR codes as image files using a built-in file dialog.
