@@ -1,7 +1,6 @@
 # Python-Qrcode-Generator
-Qrcode Generator is a free and open source generator designed to help users convert and text into an Qrcode. 
+QRCode Generator is a free, open-source tool designed to help users convert plain text into QR codes. Before running the application for the first time, you need to install the required dependencies:
 
-Before running the app for the first time, you need to install the required dependencies:
 ```
 pip install qrcode ttkbootstrap Pillow
 ```
